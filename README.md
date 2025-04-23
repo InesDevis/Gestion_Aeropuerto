@@ -1,4 +1,4 @@
- In this document, all the information is detailed regarding the practical assign
+ In this REPO, all the information is detailed regarding the practical assign
 ment for the Artificial Intelligence course. The simulation to be carried out is
  an airport management, which is a model designed as a decision-making tool for
  assessing various strategies with a focus on enhancing efficient airport actions.
